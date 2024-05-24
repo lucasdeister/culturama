@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+
+@media screen and (max-width: 430px) {
+    .cabecalho{
+        padding: 0px 0px;
+    }
+}
