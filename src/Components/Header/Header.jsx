@@ -7,7 +7,7 @@ import logo from "../Header/img/logo.png"
 const Header = () => {
   return (
     <header className={style.cabecalho}>
-        <img src={logo} alt="logo" />
+        <img src={logo} alt="logo_img" />
     </header>
   )
 }
