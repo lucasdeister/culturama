@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/culturama/static/css/main.603aa2e1.css",
+    "main.js": "/culturama/static/js/main.76e2d648.js",
+    "static/media/Banner1.png": "/culturama/static/media/Banner1.3ab00582f9618b2d9a2e.png",
+    "static/media/Card4.png": "/culturama/static/media/Card4.d9e873eea7e6ba32b8f5.png",
+    "static/media/Banner4.png": "/culturama/static/media/Banner4.8f1f351535c999773b08.png",
+    "static/media/Card3.png": "/culturama/static/media/Card3.82260f23d01a76a54f10.png",
+    "static/media/Card1.png": "/culturama/static/media/Card1.58dbe9963d2b4a4fb2f8.png",
+    "static/media/Banner3.png": "/culturama/static/media/Banner3.dcd71f6a52d7b7cf82a1.png",
+    "static/media/Banner2.png": "/culturama/static/media/Banner2.1914b312a5ce09c63337.png",
+    "static/media/Card2.png": "/culturama/static/media/Card2.6bd44cc012516f58c67c.png",
+    "index.html": "/culturama/index.html",
+    "main.603aa2e1.css.map": "/culturama/static/css/main.603aa2e1.css.map",
+    "main.76e2d648.js.map": "/culturama/static/js/main.76e2d648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603aa2e1.css",
+    "static/js/main.76e2d648.js"
+  ]
+}
